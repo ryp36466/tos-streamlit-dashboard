@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/1d6446e0-5c49-4208-872f-f63a55da36a5
 ## Prerequisites
 
 - Windows OS (required for ThinkorSwim RTD)
-- Python 3.8+
+- Python 3.10 to 3.13.  Streamlit is not supported in 3.14
 - ThinkorSwim desktop application installed and running
 
 ## Installation
